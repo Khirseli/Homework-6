@@ -69,3 +69,33 @@ figcaption{
 .five{
     margin: 0 22px 0 22px
 }
+footer{
+    background-color:#758BFD;
+}
+/* Footer */
+footer{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    padding-right: 98px;
+    justify-content: space-between;
+    
+}
+.magnifying_glass{
+    width: 449px;
+    height: 64px;
+    background-color: #F2F5F8;
+    border-radius: 10px;
+    margin-left: 98px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: #9747FF;
+}
+.footer_logo{
+    padding: 59px 0 44px 97px;
+}
+.glass_logo{
+    margin-right: 10.42px;
+    font-size: 48px;
+}
